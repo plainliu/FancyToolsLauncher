@@ -1,0 +1,2 @@
+# FancyToolsLauncher
+Electron实现FancyModule工具启动器
